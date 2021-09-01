@@ -2,7 +2,7 @@
 
 ## Drie Oplosrichtingen met voor- en nadelen
 
-1. Bouw een systeem waar de groepen zich in kunnen aanmelden en afspraken kunnen inplannen, elke werknemer kan deze planning zo nodig inzien en aanpassen.
+### 1. Bouw een systeem waar de groepen zich in kunnen aanmelden en afspraken kunnen inplannen, elke werknemer kan deze planning zo nodig inzien en aanpassen.
 
 Voordelen: 
 
@@ -12,7 +12,7 @@ Nadelen:
 
 - Het kost veel resources om zo een systeem op te zetten.
 
-2. Schakelaar plaatsen in de kantoren die de groepen kunnen gebruiken, wanneer de schakelaar omhoog is dan zal het lampje boven het kantoor rood branden en dit zal dan signaleren
+### 2. Schakelaar plaatsen in de kantoren die de groepen kunnen gebruiken, wanneer de schakelaar omhoog is dan zal het lampje boven het kantoor rood branden en dit zal dan signaleren
 dat het kantoor bezet is. Bij de receptie wordt een overzicht geplaatst met kantoren die wel/niet in gebruik zijn.
 
 Voordelen:
@@ -24,7 +24,7 @@ Nadelen:
 - De werknemers moeten ter plekke controleren of de kantoren in gebruik zijn (er is geen inzicht vanuit een website of dergelijke). 
 - Er is meer kans op fouten vanwege de afhankelijkheid van mensen voor het omzetten van de schakelaars. 
 
-3. Tijden analyseren wanneer de kantoren veel gebruikt worden en met deze data de werknemers teruggeven wanneer de kantoren weinig/veel gebruikt worden.
+### 3. Tijden analyseren wanneer de kantoren veel gebruikt worden en met deze data de werknemers teruggeven wanneer de kantoren weinig/veel gebruikt worden.
 
 Voordelen: 
 
