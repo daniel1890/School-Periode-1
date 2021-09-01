@@ -12,6 +12,11 @@ Nadelen:
 
 - Het kost veel resources om zo een systeem op te zetten.
 
+Oplossing:
+
+- Een backend systeem aanmaken die tijden en afspraken kan registreren.
+- Een frontend app/website bouwen waar de werknemers hun afspraken kunnen inzien/aanmaken/aanpassen.
+
 ### 2. Schakelaar plaatsen in de kantoren die de groepen kunnen gebruiken, wanneer de schakelaar omhoog is dan zal het lampje boven het kantoor rood branden en dit zal dan signaleren
 dat het kantoor bezet is. Bij de receptie wordt een overzicht geplaatst met kantoren die wel/niet in gebruik zijn.
 
@@ -23,6 +28,8 @@ Nadelen:
 
 - De werknemers moeten ter plekke controleren of de kantoren in gebruik zijn (er is geen inzicht vanuit een website of dergelijke). 
 - Er is meer kans op fouten vanwege de afhankelijkheid van mensen voor het omzetten van de schakelaars. 
+
+Oplossing: 
 
 ### 3. Tijden analyseren wanneer de kantoren veel gebruikt worden en met deze data de werknemers teruggeven wanneer de kantoren weinig/veel gebruikt worden.
 
